@@ -1,2 +1,2 @@
 # hello_git
-wadarenya
+wadarenya4/23/21:41現在github
